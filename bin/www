@@ -3,7 +3,6 @@
 /**
  * Module dependencies.
  */
-
 import app from '../app.js'; // the error is in here
 // it cannot find app module from this file(./bin//ww)
 import debug from 'debug';
